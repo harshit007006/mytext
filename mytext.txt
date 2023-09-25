@@ -28,3 +28,4 @@ s
 s
 xyz.com
 gmail.com
+myntra.com
